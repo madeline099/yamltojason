@@ -1,0 +1,27 @@
+{
+	"Student Catalog": {
+		"Name": "Jon",
+		"Last name": "Smith",
+		"Birthdate": "01/01/2002",
+		"-Address": {
+			"Street": 123,
+			"City": "Dallas",
+			"Zip": 75201,
+			"State": "TX",
+			"Country": "USA"
+		},
+		"Prones": {
+			"Mobile": "555-555-5555",
+			"Home": "444-444-4444",
+			"Other": {
+				"-work": "value"
+			}
+		},
+		"-Hobby": [
+			"baseball",
+			"football",
+			"soccer"
+		],
+		"Employed": true
+	}
+}
