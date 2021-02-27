@@ -1,0 +1,37 @@
+{
+	"Book Library": [
+	{
+	"Author": 
+		{
+			"Name": "Stephen",
+			"Surname": "King"
+		},
+		"Title": "The Shining",
+		"Publisher": "Doubleday",
+		"Price": "$5.00",
+		"Year": 1977
+	},
+	{
+	"Author": 
+	    {
+			"Name": "James",
+			"Surname": "Patterson"
+		},
+		"Title": "Along Came A Spider",
+		"Publisher": "Little Brown and Company",
+		"Price": "$6.00",
+		"Year": 1993
+    },
+    {
+    "Author": 
+        {
+			"Name": "Tom",
+			"Surname": "Clancy"
+		},
+		"Title": "The Hunt for Red October",
+		"Publisher": "Naval Institute Press",
+		"Price": "$7.00",
+		"Year": 1984
+	}
+	]
+}
