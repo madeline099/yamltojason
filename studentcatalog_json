@@ -1,27 +1,79 @@
 {
-	"Student Catalog": {
-		"Name": "Jon",
-		"Last name": "Smith",
-		"Birthdate": "01/01/2002",
-		"-Address": {
-			"Street": 123,
-			"City": "Dallas",
-			"Zip": 75201,
-			"State": "TX",
-			"Country": "USA"
+	"Student Catalog": [
+		{
+			"Name": "Cow",
+			"Last name": "Town",
+			"Birthdate": "02/02/1856",
+			"Address": {
+				"Street": 123,
+				"City": "Dallas",
+				"Zip": 75201,
+				"State": "TX",
+				"Country": "USA"
+			},
+			"Prones": {
+				"Mobile": "555-555-5555",
+				"Home": "444-444-4444",
+				"Other": {
+					"work": "value"
+				}
+			},
+			"Hobby": [
+				"football",
+				"horseback riding",
+				"cow roping"
+			],
+			"Employed": true
 		},
-		"Prones": {
-			"Mobile": "555-555-5555",
-			"Home": "444-444-4444",
-			"Other": {
-				"-work": "value"
-			}
+		{
+			"Name": "Sin",
+			"Last name": "City",
+			"Birthdate": "03/16/1911",
+			"Address": {
+				"Street": 456,
+				"City": "Las Vegas",
+				"Zip": 88901,
+				"State": "TX",
+				"Country": "USA"
+			},
+			"Prones": {
+				"Mobile": "555-555-5555",
+				"Home": "444-444-4444",
+				"Other": {
+					"work": "value"
+				}
+			},
+			"Hobby": [
+				"craps",
+				"slot machines",
+				"blackjack"
+			],
+			"Employed": true
 		},
-		"-Hobby": [
-			"baseball",
-			"football",
-			"soccer"
-		],
-		"Employed": true
-	}
+		{
+			"Name": "Big",
+			"Last name": "Apple",
+			"Birthdate": "01/1/1898",
+			"Address": {
+				"Street": 789,
+				"City": "New York",
+				"Zip": 10001,
+				"State": "TX",
+				"Country": "USA"
+			},
+			"Prones": {
+				"Mobile": "555-555-5555",
+				"Home": "444-444-4444",
+				"Other": {
+					"work": "value"
+				}
+			},
+			"Hobby": [
+				"musicals",
+				"going to the park",
+				"art openings"
+			],
+			"Employed": true
+		}
+	]
 }
