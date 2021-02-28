@@ -21,9 +21,9 @@
 		"Publisher": "Little Brown and Company",
 		"Price": "$6.00",
 		"Year": 1993
-    },
-    {
-    "Author": 
+   	},
+    	{
+    	"Author": 
         {
 			"Name": "Tom",
 			"Surname": "Clancy"
